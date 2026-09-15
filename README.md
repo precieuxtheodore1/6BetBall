@@ -14,4 +14,4 @@ Plus qu’une simple plateforme de jeux, **6BetBall construit un véritable univ
 
 Ceci reflètent les efforts consentis et met en évidence un travail au lieu d'un hasard. 
 
-Un Projet Exécuté par l'Entreprise Tout Fait Nombre avec la participation des Développeurs Précieux Théodore MUNANGA.
+Un Projet Exécuté par l'Entreprise Tout Fait Nombre avec la participation des Développeurs Précieux Théodore MUNANGA. le site est officiellement disponible sur https://sixbetball.onrender.com 

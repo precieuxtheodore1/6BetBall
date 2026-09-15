@@ -14,4 +14,4 @@ Plus qu’une simple plateforme de jeux, **6BetBall construit un véritable univ
 
 Ceci reflètent les efforts consentis et met en évidence un travail au lieu d'un hasard. 
 
-Précieux Théodore MUNANGA en est Développeur et Directeur de ce Projet.
+Un Projet Exécuté par l'Entreprise Tout Fait Nombre avec la participation des Développeurs Précieux Théodore MUNANGA.
